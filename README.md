@@ -2,7 +2,7 @@
 
 A Convolutional Neural Network that automatically classifies music into 10 genres from audio data, achieving **94.89% test accuracy**.
 
-> **Bachelor's Final Project** — Azad University of Tehran (Grade A)
+> **Bachelor's Final Project** — Azad University of Tehran
 
 ---
 
