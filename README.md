@@ -59,7 +59,7 @@ All features were scaled using a standard scaler before model training.
 
 The model takes an audio file as input and outputs genre probability distribution:
 
-![Predicted Genre Probabilities](predicted_genre_probabilities.png)
+[url=https://freeimage.host/i/qKUbqhB][img]https://iili.io/qKUbqhB.th.jpg[/img][/url]
 
 ---
 
